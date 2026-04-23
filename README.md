@@ -17,8 +17,8 @@
 
 <div>
     <h4 align="center">
-        <a href="https://arxiv.org/abs/xxxx.xxxxx" target='_blank'>
-        <img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg">
+        <a href="https://arxiv.org/abs/2604.20696" target='_blank'>
+        <img src="https://img.shields.io/badge/arXiv-2604.20696-b31b1b.svg">
         </a>
         <a href="https://github.com/Jiahao000/R-CoV" target='_blank'>
         <img src="https://img.shields.io/badge/Project-Page-green">
@@ -49,14 +49,14 @@
     </table>
 </html>
 
-📖 For more results, please refer to our <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank">paper</a>
+📖 For more results, please refer to our <a href="https://arxiv.org/abs/2604.20696" target="_blank">paper</a>
 
 ---
 
 </div>
 
 ## 🔔 News
-- [04/2026] 🔥 R-CoV is released on [arXiv](https://arxiv.org/abs/xxxx.xxxxx).
+- [04/2026] 🔥 R-CoV is released on [arXiv](https://arxiv.org/abs/2604.20696).
 
 ## 🌟 Method
 
@@ -91,7 +91,7 @@ If you find this work useful for your research, please consider citing our paper
 @article{xie2026rcov,
   title = {R-CoV: Region-Aware Chain-of-Verification for Alleviating Object Hallucinations in LVLMs},
   author = {Xie, Jiahao and Tonioni, Alessio and Rauschmayr, Nathalie and Tombari, Federico and Schiele, Bernt},
-  journal={arXiv},
+  journal = {arXiv preprint arXiv:2604.20696},
   year = {2026}
 }
 ```
